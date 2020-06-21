@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "473746606372",
+    "firebase_url": "https://textlytic-e63f0.firebaseio.com",
+    "project_id": "textlytic-e63f0",
+    "storage_bucket": "textlytic-e63f0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:473746606372:android:b778ccac25cfc7a57d4bb1",
+        "android_client_info": {
+          "package_name": "com.example.textlytic"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "473746606372-9s9rs767v0n27i0972h6dnrihhe8n2sn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD8OxUbM1AGCdNaGbguhIJK6p3JMCizkFk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "473746606372-9s9rs767v0n27i0972h6dnrihhe8n2sn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
